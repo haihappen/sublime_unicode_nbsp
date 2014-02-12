@@ -4,7 +4,7 @@ This plug-in highlights characters such as non breakable space, characters that 
 
 ## Installation
 
-To install this plug-in use package manager.
+To install this plug-in use package manager: `Unicode Character Highlighter`
 
 ## Customization
 
